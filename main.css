@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(255, 226, 231);
+}
+h1 {
+    color:palevioletred;
+    font-size: 48px;
+    font-family:'Futura', sans-serif;
+    margin-bottom: 10px;
+}
+.header{
+    font-family: 'gill sans', sans-serif;
+    font-variant: small-caps;
+    background-color: rgb(255, 226, 231);
+    position: sticky;
+    top: 0;
+    text-align: left;
+}
+
+.contact {
+    font-family: 'gill sans', sans-serif;
+    font-size: 14px;
+    color: palevioletred;
+    text-align: right;
+}
+
+.titles {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+a:link {
+    color: darkgoldenrod;
+}
+a:visited {
+    color:darkgoldenrod;
+}
+a:hover {
+    color: darkcyan;
+}
+.categories {
+    font-size: 24px;
+    float: center;
+}
+
+
+.main {
+    font-family: 'gill sans', sans-serif;
+    text-align: left;
+    font-size: 48px;
+}
+
